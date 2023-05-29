@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "63f2100f0c862882b7f39b65"
+  },
+  "title": "json1",
+  "category": [
+    {
+      "$oid": "63eccbfc12eb3c35f36c68c2"
+    }
+  ],
+  "year": 1999,
+  "duration": 160,
+  "director": {
+    "directorId": {
+      "$oid": "63ed09d2ac92ca2eda7247e5"
+    }
+  },
+  "comments": []
+},{
+  "_id": {
+    "$oid": "63f2215b0d7c531b32492c20"
+  },
+  "title": "json2",
+  "category": [
+    {
+      "$oid": "63eccbfc12eb3c35f36c68c2"
+    }
+  ],
+  "year": 1999,
+  "duration": 160,
+  "director": {
+    "directorId": {
+      "$oid": "63ed09d2ac92ca2eda7247e5"
+    }
+  },
+  "comments": []
+},{
+  "_id": {
+    "$oid": "63f2219b0d7c531b32492c22"
+  },
+  "title": "json3",
+  "category": [
+    {
+      "$oid": "63eccbfc12eb3c35f36c68c2"
+    }
+  ],
+  "year": 199,
+  "duration": 160,
+  "director": {
+    "directorId": {
+      "$oid": "63ed09d2ac92ca2eda7247e5"
+    }
+  },
+  "comments": []
+}]
